@@ -1,4 +1,4 @@
-# Investigating a Possible Correlation Between Dates of Academic Significance and Daily Reported Mood
+# Investigating a Possible Correlation Between Daily Reported Mood and Dates of Academic Significance
 
 In this project, I will investigate if there is a correlation between my daily reported mood, and dates of academic importance (i.e. exams, quizzes, labs, homework submissions, etc.)
 
