@@ -11,6 +11,7 @@ The average of daily reported mood in a certain number of days leading up to a d
 The Dates of Academic Importance (DAI's) and the mood values for each date are made into csv files and using pandas and scipy, t-tests, spearman correlation and p-values for the correlation are calculated for DAI's vs non-DAI's, dates just before DAI'S vs non-DAI's and both vs non-DAI's.
 
 The result was: 
+
 Average mood on DAI dates: 2.6
 Average mood just before DAI dates: 3.1
 Average mood on non-DAI dates: 2.80327868852459
