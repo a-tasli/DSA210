@@ -16,7 +16,7 @@ Average mood on DAI dates: 2.6
 
 Average mood just before DAI dates: 3.1
 
-Average mood on non-DAI dates: 2.80327868852459
+Average mood on non-DAI dates: 2.803
 
 Average mood on both DAI + Just Before DAI dates: 2.85
 
