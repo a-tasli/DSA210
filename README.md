@@ -13,15 +13,25 @@ The Dates of Academic Importance (DAI's) and the mood values for each date are m
 The result was: 
 
 Average mood on DAI dates: 2.6
+
 Average mood just before DAI dates: 3.1
+
 Average mood on non-DAI dates: 2.80327868852459
+
 Average mood on both DAI + Just Before DAI dates: 2.85
+
 T-test for DAI vs Non-DAI: t-statistic = -0.659, p-value = 0.519
+
 T-test for Just Before DAI vs Non-DAI: t-statistic = 0.935, p-value = 0.364
+
 T-test for DAI + Just Before DAI vs Non-DAI: t-statistic = 0.187, p-value = 0.852
+
 Spearman for DAI vs Non-DAI: correlation = -0.052, p-value = 0.666
+
 Spearman for Just Before DAI vs Non-DAI: correlation = 0.118, p-value = 0.325
+
 Spearman for DAI + Just Before DAI vs Non-DAI: correlation = 0.035, p-value = 0.771
+
 
 So we can say the Investigation is inconclusive and i couldn't reject the H0 which was that there is no correlation between DAI's and reported mood.
 The resulting graph is in the repository as result.png
